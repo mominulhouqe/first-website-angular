@@ -1,0 +1,39 @@
+h1{
+    color: red;
+}
+
+.post{
+    border: 2px solid red ;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px ;
+    margin-bottom: 10px;
+}
+.nubmer p{
+ color: red;
+    font-size: 30px;
+}
+.nubmer{
+    text-align: center;
+    border: 2px solid red;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.nubmer button{
+    padding: 10px;
+    margin-right: 5px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.form{
+    width: 50%;
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 12px;
+    box-shadow: -3px 3px 3px ;
+}
+.form div{
+    margin-bottom: 10px;
+}

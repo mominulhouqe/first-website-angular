@@ -1,0 +1,11 @@
+.title{
+    text-align: center;
+    font-size: 25px;
+}
+.post{
+    border: 2px solid red ;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px ;
+    margin-bottom: 10px;
+}
